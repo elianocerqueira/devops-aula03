@@ -1,5 +1,5 @@
 # devops-aula03
 # Mercurial
-# GitHub
+# Git
 # Subversion
 # CVS
